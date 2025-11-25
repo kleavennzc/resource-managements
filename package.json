@@ -1,0 +1,25 @@
+{
+  "name": "resource-managements",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleavennzc/resource-managements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kleavennzc/resource-managements/issues"
+  },
+  "homepage": "https://github.com/kleavennzc/resource-managements#readme",
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
